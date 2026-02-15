@@ -29,6 +29,7 @@ PRIMARY KEY (prescription_id),
 FOREIGN KEY (patient_id) REFERENCES patients(person_id),
 FOREIGN KEY (doctor_id) REFERENCES doctors(person_id)
 );
+
 CREATE TABLE patients (
 person_id VARCHAR(150) NOT NULL,
 name VARCHAR(150) NOT NULL,
