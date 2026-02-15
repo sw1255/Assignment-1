@@ -1,19 +1,22 @@
-# Assignment 1
-
-Hospital Database Project
-
 Project Overview
 
 This project invloves creating a Hospital Database in SQL to manage .csv file data provided for the following tables hospitals, doctors, patients, and prescriptions. It includes the  database design, SQL queries, and planning documents to demonstrate the relationships between entities and database functionality.
 
-doctors.csv – Pre-populated list of doctors
+Repository
 
-hospitals.csv – Pre-populated list of hospitals
+ERD and Planning: Contains Entity Relationship Diagram (ERD) ERD.png
 
-patients.csv – Pre-populated list of patients
+Database SQL File: hospital_database.sql – .sql file containing the database schema, tables, relationships, and initial data loaded from .csv files
 
-prescriptions.csv – Pre-populated list of prescriptions
+CSV Files:
+-	doctors.csv – List of doctors
+-	patients.csv – List of patients
+-	hospitals.csv – List of hospitals
+-	prescriptions.csv – List of prescriptions
 
-planning – Entity Relationship Diagrams (ERDs), flow charts, and pseudocode
-
-queries – SQL scripts for table creation, data loading, and functional queries
+SQL queries List all doctors at a particular hospital
+1.	List all prescriptions for a particular patient (ordered by date)
+2.	List all prescriptions prescribed by a particular doctor
+3.	Add a new patient and assign to a doctor
+4.	Identify the doctor with the most prescriptions
+5.	List all doctors at the largest hospital (by number of beds)
