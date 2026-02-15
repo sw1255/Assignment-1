@@ -1,10 +1,14 @@
-Project Overview
+**Assignment 1**
+
+***Project Overview***
 
 This project invloves creating a Hospital Database in SQL to manage .csv file data provided for the following tables hospitals, doctors, patients, and prescriptions. It includes the  database design, SQL queries, and planning documents to demonstrate the relationships between entities and database functionality.
 
-Repository
+**Repository**
 
 ERD and Planning: Contains Entity Relationship Diagram (ERD) ![Hospital ERD](ERD.png)
+
+**Hospital Database**
 
 Database SQL File: hospital_database.sql – .sql file containing the database schema, tables, relationships, and initial data loaded from .csv files
 
