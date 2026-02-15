@@ -4,6 +4,8 @@
 
 This project invloves creating a Hospital Database in SQL to manage .csv file data provided for the following tables: hospitals, doctors, patients, and prescriptions. It includes the database design, SQL queries, and planning documents to demonstrate the relationships between entities and database functionality.
 
+Access full project here: https://github.com/sw1255/Assignment-1
+
 ## **Repository**
 
 **ERD and Planning**
