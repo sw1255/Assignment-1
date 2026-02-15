@@ -6,7 +6,9 @@ This project invloves creating a Hospital Database in SQL to manage .csv file da
 
 **Repository**
 
-ERD and Planning: Contains Entity Relationship Diagram (ERD) ![Hospital ERD](ERD.png)
+**ERD and Planning**
+
+Contains Entity Relationship Diagram (ERD) ![Hospital ERD](ERD.png)
 
 **Hospital Database**
 
